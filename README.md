@@ -1,4 +1,4 @@
-# Como eu uso um Dockerfile para provisionar uma infraestrutura para estudar Ansible
+# Como eu uso um Dockerfile para provisionar uma infraestrutura com acesso ssh configurado
 
 1. Criar imagem customizada com porta ssh habilitada
 ```
